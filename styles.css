@@ -1,0 +1,48 @@
+body {
+  font-family: Consolas; 
+}
+
+* + * {
+  margin-top: 1em;
+}
+
+#effect {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: red;
+  width: 200px !important;
+}
+
+.shrink {
+  background-color: gray;
+  width: 50px !important;
+}
+
+.aquamarine {
+  background-color: aquamarine;
+  min-height: 50px;
+}
+
+.salmon {
+  background-color: salmon;
+  min-height: 50px;
+}
+
+.springgreen {
+  background-color: springgreen;
+  min-height: 50px;
+}
+
+.turquoise {
+  background-color: turquoise;
+  min-height: 50px;
+}
+
+.size {
+  height: 50px;
+  width: 50px;
+}
